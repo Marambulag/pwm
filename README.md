@@ -1,3 +1,4 @@
-## Imagen de la FPGA
-
-![Imagen de la FPGA DE10-Lite](pwm.mp4)
+<video width="640" height="480" controls>
+  <source src="video_fpga.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento de video.
+</video>
